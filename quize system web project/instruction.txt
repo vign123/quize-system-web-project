@@ -1,0 +1,6 @@
+1)Quiz Categories: Users can choose from a variety of quiz categories, such as science, history, geography, and more.
+2)Multiple-Choice Questions: Each quiz consists of multiple-choice questions with options for users to select the correct answer.
+3)Timer: The app includes a countdown timer that limits the time available to answer each question, adding a sense of urgency to the quiz.
+4)Instant Feedback: Users receive immediate feedback on their answers, with correct answers highlighted and incorrect answers marked.
+5)Score Calculation: The app calculates and displays the user’s overall score based on the number of correct and incorrect responses.
+6)Attractive User Interface: The UI is designed to be visually appealing and user-friendly, providing an enjoyable quiz-taking experience.
